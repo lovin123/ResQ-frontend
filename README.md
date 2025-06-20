@@ -1,6 +1,7 @@
 # ResQ Frontend
 
 This is the React frontend for the ResQ Disaster Response Dashboard.
+Deployment url: https://res-q-backend.vercel.app/
 
 ## Features
 
